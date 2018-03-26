@@ -1298,9 +1298,8 @@ i{
 	height: 36px;
 	font-size: 20px;
 	color: #333;
-	margin-left: 70px;
 	line-height: 36px;
-	margin-top: 20px;
+	margin: 0 auto;
 }
 .life-x{
 	width: 1208px;
@@ -1475,7 +1474,7 @@ i{
 	width: 1210px;
 	height: 737px;
 	overflow: hidden;
-	margin: 0 70px 30px 70px;
+	margin: 0 auto;
 }
 .floor-one{
 	width: 1210px;
@@ -1895,7 +1894,7 @@ i{
 .two-floor{
 	width: 1210px;
 	height: 737px;
-	margin: 0 69px 15px 69px;
+	margin: 0 auto;
 }
 .floor-two{
 	width: 1210px;
@@ -2383,7 +2382,7 @@ i{
 .three-floor{
 	width: 1210px;
 	height: 578px;
-	margin: 0 70px 30px 70px;
+	margin: 0 auto;
 }
 .floor-three{
 	width: 1210px;
@@ -2736,7 +2735,7 @@ i{
 .four-floor{
 	width: 1210px;
 	height: 578px;
-	margin: 0 70px 30px 70px;
+	margin: 0 auto;
 }
 .floor-four{
 	width: 1210px;
@@ -2971,7 +2970,7 @@ i{
 .five-floor{
 	width: 1210px;
 	height: 737px;
-	margin: 0 70px 30px 70px;
+	margin: 0 auto;
 }
 .floor-five{
 	width: 1210px;
@@ -3362,7 +3361,7 @@ i{
 .seven-floor{
 	width: 1210px;
 	height: 578px;
-	margin: 0 70px 30px 70px;
+	margin: 0 auto;
 }
 .floor-seven{
 	width: 1210px;
@@ -3525,7 +3524,7 @@ i{
 .eight-floor{
 	width: 1210px;
 	height: 578px;
-	margin: 0 70px 30px 70px;
+	margin: 0 auto;
 }
 .floor-eight{
 	width: 1210px;
@@ -3694,7 +3693,7 @@ i{
 .nine-floor{
 	width: 1210px;
 	height: 737px;
-	margin: 0 69px 15px 69px;
+	margin: 0 auto;
 }
 .floor-nine{
 	width: 1210px;
